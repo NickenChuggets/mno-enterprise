@@ -94,6 +94,7 @@ en:
             description: "Description"
             price: "Price"
             product: "Product"
+            product_error: "Unable to fetch your product at this time, please contact support"
             subscription: "Subscription"
             amount: "Amount"
             start_date: "Start"
